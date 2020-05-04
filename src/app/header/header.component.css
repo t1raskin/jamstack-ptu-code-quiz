@@ -1,0 +1,22 @@
+header {
+  background-color: #009dea;
+  height: 50px;
+  width: 100%;
+}
+
+header p {
+  margin: 0;
+  padding: 20px;
+  color: white;
+  float: left;
+}
+
+header img {
+  height: 100%;
+  float: left;
+}
+
+header #nav {
+  float: right;
+  padding: 20px;
+}

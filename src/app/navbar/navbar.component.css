@@ -1,0 +1,12 @@
+.nav-link {
+  margin-right: 10px;
+  color: white;
+  float: left;
+  width: 80px;
+  display: block;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: black;
+}
